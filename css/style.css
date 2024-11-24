@@ -326,7 +326,7 @@ a.box:active { box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.2), 0 0 0 1px #1a8
 
 .button.is-primary:active, .button.is-primary.is-active { background-color: #6306da; border-color: transparent; color: white; }
 
-.button.is-primary[disabled], fieldset[disabled] .button.is-primary { background-color: #6E07F3; border-color: #6E07F3; box-shadow: none; }
+.button.is-primary[disabled], fieldset[disabled] .button.is-primary { background-color: #255de5; border-color: #255de5; box-shadow: none; }
 
 .button.is-primary.is-inverted { background-color: white; color: #6E07F3; }
 
@@ -336,15 +336,15 @@ a.box:active { box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.2), 0 0 0 1px #1a8
 
 .button.is-primary.is-loading::after { border-color: transparent transparent white white !important; }
 
-.button.is-primary.is-outlined { background-color: transparent; border-color: #6E07F3; color: #6E07F3; }
+.button.is-primary.is-outlined { background-color: transparent; border-color: #255de5; color: #255de5; }
 
 .button.is-primary.is-outlined:hover, .button.is-primary.is-outlined.is-hovered, .button.is-primary.is-outlined:focus, .button.is-primary.is-outlined.is-focused { background-color: #6E07F3; border-color: #6E07F3; color: white; }
 
-.button.is-primary.is-outlined.is-loading::after { border-color: transparent transparent #6E07F3 #6E07F3 !important; }
+.button.is-primary.is-outlined.is-loading::after { border-color: transparent transparent #255de5 #255de5 !important; }
 
 .button.is-primary.is-outlined.is-loading:hover::after, .button.is-primary.is-outlined.is-loading.is-hovered::after, .button.is-primary.is-outlined.is-loading:focus::after, .button.is-primary.is-outlined.is-loading.is-focused::after { border-color: transparent transparent white white !important; }
 
-.button.is-primary.is-outlined[disabled], fieldset[disabled] .button.is-primary.is-outlined { background-color: transparent; border-color: #6E07F3; box-shadow: none; color: #6E07F3; }
+.button.is-primary.is-outlined[disabled], fieldset[disabled] .button.is-primary.is-outlined { background-color: transparent; border-color: #255de5; box-shadow: none; color: #255de5; }
 
 .button.is-primary.is-inverted.is-outlined { background-color: transparent; border-color: white; color: white; }
 
@@ -3997,7 +3997,7 @@ hr { background-color: #E6ECF8; }
 
 .section { padding: 5rem 1.5rem; }
 
-.section.is-primary { background-color: #1b1b75; color: white; }
+.section.is-primary { background-color: #145c83; color: white; }
 
 .section.is-primary .title { color: white; }
 
